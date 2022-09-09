@@ -1,0 +1,36 @@
+[submodule "LibAFL"]
+	path = LibAFL
+	url = https://github.com/AFLplusplus/LibAFL.git
+[submodule "honggfuzz"]
+	path = honggfuzz
+	url = https://github.com/google/honggfuzz.git
+[submodule "collafl-dyninst"]
+	path = collafl-dyninst
+	url = https://github.com/RosenZhu/collafl-dyninst.git
+[submodule "FuzzingPaper"]
+	path = FuzzingPaper
+	url = https://github.com/fengjixuchui/FuzzingPaper.git
+[submodule "kepler-cfhp"]
+	path = kepler-cfhp
+	url = https://github.com/ww9210/kepler-cfhp
+[submodule "MOpt-AFL"]
+	path = MOpt-AFL
+	url = https://github.com/vul337/MOpt-AFL.git
+[submodule "syzkaller"]
+	path = syzkaller
+	url = https://github.com/google/syzkaller.git
+[submodule "tecuzzor"]
+	path = tecuzzor
+	url = https://github.com/SecInTheShell/tecuzzor
+[submodule "ViridianFuzzer"]
+	path = ViridianFuzzer
+	url = https://github.com/riusksk/ViridianFuzzer.git
+[submodule "yuawn/Fuzzing"]
+	path = yuawn/Fuzzing
+	url = https://github.com/yuawn/Fuzzing.git
+[submodule "h0wl/afl-dyninst"]
+	path = h0wl/afl-dyninst
+	url = https://github.com/h0wl/afl-dyninst.git
+[submodule "talos-vulndev/afl-dyninst"]
+	path = talos-vulndev/afl-dyninst
+	url = https://github.com/talos-vulndev/afl-dyninst.git
